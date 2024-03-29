@@ -2,7 +2,7 @@ class CustomApi {
   CustomApi._();
 
   // - - - - - - - - - - - - - - - - - - BASE URL  - - - - - - - - - - - - - - - - - -  //
-  static String BASE_URL = "https://auth-express-js.onrender.com/api";
+  static String BASE_URL = "*****************";
 
   // - - - - - - - - - - - - - - - - - - END POINTS  - - - - - - - - - - - - - - - - - -  //
   static String SIGN_UP = "/auth/register";
